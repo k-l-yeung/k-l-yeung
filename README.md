@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a psychology researcher (consumer behaviors, learning, environmental decision) looking for transition opportunities in data science. 
+I am a psychology researcher (consumer behaviors, learning, environmental decision) looking for transition opportunities in data science or ds mix with behavioral science. 
 
 I am familiar with Python, including libraries in pandas, scipy, scikit-Learn, tensorflow (keras), nltk, gensim, re, matplotlib, seaborn, and os.  
 I can also scrap web data with BeautifulSoup and selenium, conduct analyses/modeling in R and SPSS, write queries in SQL, and make cool visuals in Tableau.
